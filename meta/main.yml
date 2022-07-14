@@ -1,0 +1,13 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: "Dave Stephens"
+  description: "Ansible NAS by Dave Stephens (Ubuntu 20.04 server)"
+  company: "none"
+  license: MIT
+  min_anisble_version: 2.9
+  role_name: ansible-nas
+  galaxy_tags: 
+    - ansible-nas
+    - nas
